@@ -82,7 +82,7 @@ function Passgen() {
               setNumberallowed((prev) => !prev);
             }}
           />
-          <label>Number</label>
+          <label>Num</label>
         </div>
 
         <div className="gap-2 flex">
@@ -93,7 +93,7 @@ function Passgen() {
               setCharallowed((prev) => !prev);
             }}
           />
-          <label>Character</label>
+          <label>Char</label>
         </div>
       </div>
     </div>
